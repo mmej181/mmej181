@@ -6,8 +6,8 @@
   - [Installation & Configuration](https://github.com/mmej181/install-config)
   - [Ticket Lifecycle 101](https://github.com/mmej181/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory in Azure VMs](https://github.com/mmej181/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mmej181/azure-network-protocols)
+  - [Configuring Active Directory in Virtual Machines](https://github.com/mmej181/configure-ad)
+  - [Network Security Groups and Protocols](https://github.com/mmej181/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
