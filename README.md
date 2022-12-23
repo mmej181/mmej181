@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Ticketing System)</b>
-  - [Installation & Configuration](https://github.com/mmej181/install-config)
-  - [Ticket Lifecycle 101](https://github.com/mmej181/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory](https://github.com/mmej181/configure-ad)
-  - [Firewalls & Protocols](https://github.com/mmej181/azure-network-protocols)
+**Project 01:** [Getting Started with Virtual Machines](https://github.com/mmej181/vmintro)
+
+**Project 02:** [osTicket Quick Guide](https://github.com/mmej181/osticket-quickguide)
+
+**Project 03:** [Configuring Active Directory](https://github.com/mmej181/configure-ad)
+  
+**Project 04:** [Firewalls & Protocols](https://github.com/mmej181/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
