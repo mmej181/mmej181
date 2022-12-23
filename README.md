@@ -6,9 +6,11 @@
 
 **Project 02:** [osTicket Quick Guide](https://github.com/mmej181/osticket-quickguide)
 
-**Project 03:** [Configuring Active Directory](https://github.com/mmej181/configure-ad)
+**Project 03:** [Firewalls & Protocols](https://github.com/mmej181/azure-network-protocols)
+
+**Project 04:** [Configuring Active Directory](https://github.com/mmej181/configure-ad)
   
-**Project 04:** [Firewalls & Protocols](https://github.com/mmej181/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
