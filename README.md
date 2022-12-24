@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="https://www.linkedin.com/in/mmej181/">IT Professional</a> 👾</h1>
+<h1>Hey, I'm Michael, an IT Professional</a> 👾</h1>
 
 <h2 Information Technology Projects:</h2>
 
